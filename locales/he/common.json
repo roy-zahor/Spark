@@ -67,6 +67,15 @@
     "facebook": {
         "login": "התחבר באמצעות פייסבוק"
     },
+    "breadcrumbs": {
+        "camps-documents_and_forms": "מסמכים וטפסים",
+        "camps-index": "מחנות נושא",
+        "camps-members_board": "חברים במחנה",
+        "camps-new_camp": "יצירת מחנה חדש",
+        "camps-new_program": "פעילות לתוכניה",
+        "camps-statistics": "סטטיסטיקה ואינפורמציה",
+        "main-index": "בית"
+    },
     "footer": {
         "scrolltop": "חזור למעלה",
         "visit_homepage": "בקרו באתר מידברן",
@@ -79,8 +88,6 @@
         "project": "של מידברן-טק.",
         "want_to_help": "רוצה לעזור לנו לקודד?",
         "toc": "מידע משעמם לעורכי דין",
-        "links": {
-
-        }
+        "links": {}
     }
 }

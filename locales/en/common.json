@@ -60,6 +60,15 @@
     "facebook": {
         "login": "Login with Facebook"
     },
+    "breadcrumbs": {
+        "camps-documents_and_forms": "Documents & Forms",
+        "camps-index": "Theme Camps",
+        "camps-members_board": "Members Board",
+        "camps-new_camp": "Create a Camp",
+        "camps-new_program": "Camp Program",
+        "camps-statistics": "Statistics & Information",
+        "main-index": "Home"
+    },
     "footer": {
         "scrolltop": "Back to top",
         "visit_homepage": "Visit Midburn website",
@@ -72,8 +81,6 @@
         "project": "project of Midburn Tech.",
         "want_to_help": "Want to help us code?",
         "toc": "Boring legal stuff",
-        "links": {
-
-        }
+        "links": {}
     }
 }
